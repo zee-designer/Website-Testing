@@ -1,0 +1,5 @@
+Main Color: #42abcb → Light Background: rgb(232, 250, 255)
+Main Color: #63b256 → Light Background:  rgb(231, 255, 229)
+Main Color: #ffab4b → Light Background: rgb(255, 241, 224)
+Main Color: #FE5D37 → Light Background: #faf5f4
+ 
